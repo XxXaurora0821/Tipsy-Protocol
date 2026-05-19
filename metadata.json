@@ -1,0 +1,5 @@
+{
+  "name": "Soul Spirits - AI Cocktail Matchmaker",
+  "description": "An elegant, interactive cocktail discovery experience that recommends classic and custom drinks based on your personality and flavor profile using Claude Opus.",
+  "requestFramePermissions": []
+}
